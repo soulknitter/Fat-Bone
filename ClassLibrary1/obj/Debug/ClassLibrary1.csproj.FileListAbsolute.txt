@@ -2,3 +2,11 @@ C:\Users\theso\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyRefe
 C:\Users\theso\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
 C:\Users\theso\Desktop\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\theso\Desktop\ClassLibrary1.dll
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.AssemblyInfo.cs
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Documents\Fat-Bone\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\Documents\Fat-Bone\ClassLibrary1.dll
